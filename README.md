@@ -4,3 +4,4 @@ Core concepts of Object-Oriented Programming (OOP) in Python.
 
 1. First Steps in OOP
 2. Classes & Objects
+3. Inheritance
